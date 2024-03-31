@@ -29,4 +29,5 @@
 .images-container img:hover, .images-container img:focus {
     opacity: 1;
     border: 2px solid orange;
+    outline: 0;
 }
